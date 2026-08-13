@@ -39,7 +39,9 @@ Você deve modificar apenas o conteúdo do arquivo [docs/getit.css](docs/getit.c
 
 Deverá ser realizado o fork deste repositório e será considerado o último commit enviado dentro do prazo. 
 
-Além disso, a página deve **obrigatoriamente** estar disponível no GitHub pages. **Importante:** Caso a página não esteja disponível no GitHub Pages, será descontado 1 ponto da nota final.
+Além disso, um integrante do grupo deve enviar o link do repositório do GitHub via Blackboard. 
+
+A página deve **obrigatoriamente** estar disponível no GitHub pages. **Importante:** Caso a página não esteja disponível no GitHub Pages, será descontado 1 ponto da nota final.
 
 Será considerado o último commit enviado antes do prazo.
 
