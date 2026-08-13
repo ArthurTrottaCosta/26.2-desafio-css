@@ -3,7 +3,9 @@
 NOME DOS INTEGRANTES:
 
 - DIGITE O NOME DO PRIMEIRO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
+- DIGITE O NOME DO SEGUNDO INTEGRANTE
+- DIGITE O NOME DO TERCEIRO INTEGRANTE
+- Link do GitHub Pages: COLOQUE O LINK AQUI 
 
 ## Desafio CSS
 
@@ -35,7 +37,9 @@ Você deve modificar apenas o conteúdo do arquivo [docs/getit.css](docs/getit.c
 
 ## Entrega
 
-A sua página deve **obrigatoriamente** estar disponível no GitHub pages seguindo [estes passos](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). **Importante:** Caso a página não esteja disponível no GitHub Pages, será descontado 1 ponto da nota final.
+Deverá ser realizado o fork deste repositório e será considerado o último commit enviado dentro do prazo. 
+
+Além disso, a página deve **obrigatoriamente** estar disponível no GitHub pages. **Importante:** Caso a página não esteja disponível no GitHub Pages, será descontado 1 ponto da nota final.
 
 Será considerado o último commit enviado antes do prazo.
 
@@ -57,6 +61,9 @@ A nota deste trabalho é a soma dos pontos abaixo. Será feita uma inspeção vi
   - [1 pt] Cores de fundo corretas
   - [1 pt] Aparência do cartão correta (sombra, proporções, distâncias, cantos arredondados, etc)
   - [1 pt] Rotação dos cartões
+
+- [-1 pt] Não adicionaram no README.md o link do GitHub Pages
+- [-1 pt] Não adicionaram no README.md os nomes de todos os integrantes do grupo
 
 ## Observações importantes
 
