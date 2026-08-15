@@ -26,7 +26,35 @@ html,
 body {
   font-family: "Roboto", sans-serif;
 }
-
+*{
+  box-sizing: border-box;
+}
+.appbar{
+  background-color: #f7d736;
+  height: 78px;
+  display: flex;
+  align-items: center;
+  box-shadow:0 15px 20px rgba(0, 0, 0, 0.2);
+}
+.logo{
+  height: 64px;
+}
+.subtitle{
+  margin-left: 20px;
+  font-size: 18px;
+  color: #2c2c2c;
+}
+.form-card{
+  width: 570px;
+  margin: 40px auto 0 auto;
+  background-color: white;
+  border-radius: 4px;
+  padding: 12px 12px 12px 12px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.form-card-title{
+  font-size: 20px;
+}
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
 /* .btn {
