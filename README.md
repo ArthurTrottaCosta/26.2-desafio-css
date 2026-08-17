@@ -4,8 +4,7 @@ NOME DOS INTEGRANTES:
 
 - Arthur Trotta
 - Fernando Mason
-- DIGITE O NOME DO TERCEIRO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI 
+- Link do GitHub Pages: https://arthurtrottacosta.github.io/26.2-desafio-css/
 
 ## Desafio CSS
 
