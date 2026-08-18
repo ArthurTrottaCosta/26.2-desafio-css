@@ -131,3 +131,94 @@ body {
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
 }
 
+
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 40px 50px 0 50px;
+}
+
+.card {
+  flex: 0 0 240px;
+  min-height: 130px;
+  margin-bottom: 25px;
+  padding: 15px;
+
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 2px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #2c2c2c;
+  margin-bottom: 15px;
+}
+
+.card-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Permanent Marker", cursive;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+.card-color-1 {
+  background-color: #ead3a7;
+}
+.card-color-2 {
+  background-color: #9de0f5;
+}
+.card-color-3 {
+  background-color: #ef89ba;
+}
+.card-color-4 {
+  background-color: #fae890;
+}
+.card-color-5 {
+  background-color: #abe9c1;
+}
+
+.card-rotation-1 {
+  transform: rotate(-3deg);
+}
+.card-rotation-2 {
+  transform: rotate(-2.5deg);
+}
+.card-rotation-3 {
+  transform: rotate(-2deg);
+}
+.card-rotation-4 {
+  transform: rotate(-1.5deg);
+}
+.card-rotation-5 {
+  transform: rotate(-1deg);
+}
+.card-rotation-6 {
+  transform: rotate(-0.5deg);
+}
+.card-rotation-7 {
+  transform: rotate(0.5deg);
+}
+.card-rotation-8 {
+  transform: rotate(1deg);
+}
+.card-rotation-9 {
+  transform: rotate(1.5deg);
+}
+.card-rotation-10 {
+  transform: rotate(2deg);
+}
+.card-rotation-11 {
+  transform: rotate(3deg);
+}
